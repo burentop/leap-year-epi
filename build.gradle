@@ -3,7 +3,7 @@ apply plugin: 'application'
 
 archivesBaseName = "leap-year"
 version = '1.0'
-mainClassName = "LeapYear"
+mainClassName = "App"
 
 repositories {
   mavenCentral()
